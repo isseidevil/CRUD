@@ -1,0 +1,36 @@
+.sec{
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+button{
+  padding: 10px;
+  color: white;
+  background: orangered;
+  border: none;
+  margin: 10px;
+}
+
+.Create{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form{
+  border: 1px solid black;
+  padding: 25px;
+}
+
+input{
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  border-radius: 15px;
+}
