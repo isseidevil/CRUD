@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 - Used Crud operation in this project by making our own personal database then connected to json 
 - it won't show the output unless run seperate command
 - npx json-server --watch db.json
+- used axios as well for easier fetching 
 # Result 
 ![image](https://github.com/isseidevil/weather-app/assets/149817970/5bbc06e2-2ef3-4991-ac42-b43ab298397a)
 ![image](https://github.com/isseidevil/weather-app/assets/149817970/1ad2aa9e-a460-4f2e-9081-fe64f74fae41)
